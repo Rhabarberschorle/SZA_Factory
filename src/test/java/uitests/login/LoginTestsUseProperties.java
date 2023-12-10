@@ -1,4 +1,4 @@
-package uitests;
+package uitests.login;
 
 import org.example.uitests.utils.ConfigProvider;
 import org.openqa.selenium.By;
@@ -7,6 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import uitests.BaseTestClassUseProperties;
 
 public class LoginTestsUseProperties extends BaseTestClassUseProperties {
 

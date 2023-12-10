@@ -1,4 +1,4 @@
-package uitests;
+package uitests.zakharchenkohw14;
 
 import org.apache.commons.io.FileUtils;
 import org.example.uitests.utils.ConfigProvider;
@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import uitests.BaseTestClassUseProperties;
 
 import java.io.File;
 import java.io.IOException;

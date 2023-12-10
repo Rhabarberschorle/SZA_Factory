@@ -1,9 +1,10 @@
-package uitests;
+package uitests.uploaddownload;
 
 import org.example.uitests.utils.MyFilesUtils;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import uitests.BaseTestClassUseProperties;
 
 import java.io.File;
 import java.io.IOException;
